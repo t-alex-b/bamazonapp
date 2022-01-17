@@ -19,6 +19,7 @@
   "homepage": "https://github.com/t-alex-b/bamazonapp#readme",
   "dependencies": {
     "inquirer": "^5.2.0",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "mysql2": "^2.3.3"
   }
 }
